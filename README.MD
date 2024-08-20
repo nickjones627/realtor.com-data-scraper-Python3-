@@ -20,6 +20,8 @@ roughly 5 minutes per 250 listings.
 
 ## Requirements
 
+Create a folder "output" in the same directory to properly output the .csv file
+
 Ensure you have the requirements installed using the following command:
 
 ```bash
